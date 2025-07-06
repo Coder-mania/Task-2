@@ -1,16 +1,14 @@
 # Task-2 (Data Analyst Internship)
-Data Visualization and Storytelling
+Data Visualization and Storytelling\
+
+**🎯Goal** : To create visualizations that convey a compelling story.\
 
 
-🎯Goal : To create visualizations that convey a compelling story.
-
-
-🛠️Tools:
+**🛠️Tools:**
 -Dataset : Superstore Dataset(csv file)
--Power BI Desktop
+-Power BI Desktop\
 
-
-💡Summary:
+**💡Summary:**
 
 -Load, Explore and Clean basic issues
 
