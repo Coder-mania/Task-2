@@ -9,9 +9,13 @@ Data Visualization and Storytelling
 
 💡Summary:
 -Load, Explore and Clean basic issues
+
 -Choosing a Story, to be explained
+
 -Created more than 5 Visuals
+
 -Added Visual Design Touches
+
 -Added a Summary Dashboard
 
 
