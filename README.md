@@ -8,6 +8,7 @@ Data Visualization and Storytelling
 -Power BI Desktop
 
 💡Summary:
+
 -Load, Explore and Clean basic issues
 
 -Choosing a Story, to be explained
