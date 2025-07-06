@@ -1,7 +1,5 @@
 # Task-2 (Data Analyst Internship)
 Data Visualization and Storytelling
-<br>
-
 
 
 **🎯Goal** : To create visualizations that convey a compelling story.
