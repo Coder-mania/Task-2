@@ -5,7 +5,7 @@ Data Visualization and Storytelling<br><br>
 
 -Dataset : Superstore Dataset(csv file)
 
--Power BI Desktop<br><br>
+-Power BI<br><br>
 **💡Summary:**
 
 -Load, Explore and Clean basic issues
